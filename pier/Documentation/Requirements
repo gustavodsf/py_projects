@@ -1,0 +1,6 @@
+# Parser-py
+=> 1 - Python3
+=> 2 - py.test => pip install pytest
+=> 4 - NUMPY
+=> 3 - NLTK 
+=> 5 - Psycopg2 - para se conectar com o banco de dados postgres  
